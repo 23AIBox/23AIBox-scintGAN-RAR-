@@ -7,7 +7,7 @@ The scintGAN is a two-stage generative adversarial network-based model for singl
 scintGAN can be downloaded from GitHub:
 
 ```
-git clone https://github.com/XXX
+git clone https://github.com/23AIBox/23AIBox-scintGAN-RAR-.git
 ```
 
 The python environment required for scintGAN running can be configure as follows: 
